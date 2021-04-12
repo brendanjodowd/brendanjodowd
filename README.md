@@ -7,7 +7,7 @@ Some projects that I worked on:
 - 📈 [R Package for importing data from CSO Statbank](https://github.com/brendanjodowd/CSO) - This has been superceded by an [official CSO package](https://cran.r-project.org/web/packages/csodata/index.html).
 - 🔄 [SAS-R Cheatsheet](https://github.com/brendanjodowd/SAS-R) - a handy guide to learning R for SAS users, or vice versa
 - 🍫 [The Axis of Fudge](https://brendanjodowd.shinyapps.io/brownie) - A Shiny project to interactively search and compare Brownie recipes
-- 🐈 [SAS Macros](https://github.com/brendanjodowd/SAS) - a ton of macros for SAS that I developed over the years
+- 🔧 [SAS Macros](https://github.com/brendanjodowd/SAS) - a ton of macros for SAS that I developed over the years
 
 <!--
 **brendanjodowd/brendanjodowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
