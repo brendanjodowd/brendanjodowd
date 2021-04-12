@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Statistician with the [CSO](https://www.cso.ie/en/index.html) currently working in the [Department of Enterprise, Trade & Employment](https://enterprise.gov.ie/en/). I use GitHub for a couple of work-related and hobby projects. My main languages are R, SAS, and more recently Stata.
 
-Some projects that I worked on:
+#### Some projects
 
 - 🎓 [Higher Education Outcomes](https://www.cso.ie/en/releasesandpublications/ep/p-heo/highereducationoutcomes-graduationyears2010-2016/) - a longitudinal study of outcomes for higher education graduates carried out using admin data.
 - 📈 [R Package for importing data from CSO Statbank](https://github.com/brendanjodowd/CSO) - This has been superceded by an [official CSO package](https://cran.r-project.org/web/packages/csodata/index.html).
