@@ -4,7 +4,7 @@ I am a Statistician with the [CSO](https://www.cso.ie/en/index.html) currently w
 #### Some projects
 
 - 🎓 [Higher Education Outcomes](https://www.cso.ie/en/releasesandpublications/ep/p-heo/highereducationoutcomes-graduationyears2010-2016/) - a longitudinal study of outcomes for higher education graduates carried out using admin data.
-- :world_map: [Ireland maps](https://github.com/brendanjodowd/maps) - a collection of compatible maps/shapefiles produced using [OSi](https://data-osi.opendata.arcgis.com/) shapefiles and the [rmapshaper](https://github.com/ateucher/rmapshaper) package by Andy Teucher.
+- :world_map: [Ireland maps](https://github.com/brendanjodowd/maps) - a collection of compatible maps produced using [OSi](https://data-osi.opendata.arcgis.com/) shapefiles and the [rmapshaper](https://github.com/ateucher/rmapshaper) package.
 - 📈 [R Package for importing data from CSO Statbank](https://github.com/brendanjodowd/CSO) - This has been superseded by an [official CSO package](https://cran.r-project.org/web/packages/csodata/index.html).
 - 💑 [SAS-R Cheatsheet](https://github.com/brendanjodowd/SAS-R) - a handy guide to learning R for SAS users, or vice versa
 - 🍫 [The Axis of Fudge](https://brendanjodowd.shinyapps.io/brownie) - A Shiny project to interactively examine and compare brownie recipes
