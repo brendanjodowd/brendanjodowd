@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Statistician with the [CSO](https://www.cso.ie/en/index.html) currently working in the [Department of Enterprise, Trade & Employment](https://enterprise.gov.ie/en/). I use GitHub for a couple of work-related and hobby projects. My main languages are R, SAS, and more recently Stata.
+I am a Statistician at the [Department of Enterprise, Trade & Employment](https://enterprise.gov.ie/en/), on secondment from the [CSO](https://www.cso.ie/en/index.html). I use GitHub for a couple of work-related and hobby projects. My main languages are R, SAS, and more recently Stata.
 
 #### Some projects
 
