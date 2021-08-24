@@ -6,7 +6,7 @@ I am a Statistician at the [Department of Enterprise, Trade & Employment](https:
 - 🎓 [Higher Education Outcomes](https://www.cso.ie/en/releasesandpublications/ep/p-heo/highereducationoutcomes-graduationyears2010-2016/) - a longitudinal study of outcomes for higher education graduates carried out using admin data.
 - :globe_with_meridians: [Ireland maps](https://github.com/brendanjodowd/maps) - a collection of compatible maps produced using shapefiles from [OSi](https://data-osi.opendata.arcgis.com/) and [OSNI](https://www.spatialni.gov.uk/) and the [rmapshaper](https://github.com/ateucher/rmapshaper) package.
 - 📈 [R Package for importing data from CSO Statbank](https://github.com/brendanjodowd/CSO) - This has been superseded by an [official CSO package](https://cran.r-project.org/web/packages/csodata/index.html).
-- 💑 [SAS-R Cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/sas-r.pdf) - a handy guide to learning R for SAS users, or vice versa. 
+- 💑 [SAS-R Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/sas-r.pdf) - a guide to learning R for SAS users, or vice versa. Now hosted on the [RStudio website](https://www.rstudio.com/resources/cheatsheets/).
 - :family_man_woman_girl_boy: [LEA Population Map](https://brendanjodowd.shinyapps.io/pop_map) - A Shiny web app to calculate population in selected LEAs
 - 🍫 [The Axis of Fudge](https://brendanjodowd.shinyapps.io/brownie) - Another Shiny project to interactively examine and compare brownie recipes
 - 🔧 [SAS Macros](https://github.com/brendanjodowd/SAS) - a ton of macros for SAS that I developed/collected over the years
