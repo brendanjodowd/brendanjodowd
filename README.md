@@ -3,6 +3,7 @@ I am a Statistician at the [Department of Enterprise, Trade & Employment](https:
 
 #### Some projects
 
+- :octocat: [My GitHub Pages site](https://brendanjodowd.github.io/) where I have guides for making maps and implementing statistical disclosure controls.
 - 🎓 [Higher Education Outcomes](https://www.cso.ie/en/releasesandpublications/ep/p-heo/highereducationoutcomes-graduationyears2010-2016/) - a longitudinal study of outcomes for higher education graduates carried out using admin data.
 - :globe_with_meridians: [Ireland maps](https://github.com/brendanjodowd/maps) - a collection of compatible maps produced using shapefiles from [OSi](https://data-osi.opendata.arcgis.com/) and [OSNI](https://www.spatialni.gov.uk/) and the [rmapshaper](https://github.com/ateucher/rmapshaper) package.
 - 💑 [SAS-R Cheatsheet](https://github.com/brendanjodowd/SAS-R) - a guide to learning R for SAS users, or vice versa. Now hosted on the [RStudio website](https://www.rstudio.com/resources/cheatsheets/).
