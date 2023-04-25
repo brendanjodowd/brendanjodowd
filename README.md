@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Senior Statistician at the [Central Statistics Office (CSO)](https://www.cso.ie/en/index.html). I use GitHub for a couple of work-related and hobby projects. My main languages are R, SAS, and more recently Stata.
+I am a Senior Statistician at the [Central Statistics Office (CSO)](https://www.cso.ie/en/index.html). I use GitHub for a couple of work-related and hobby projects. My main languages are R and SAS.
 
 #### Some projects
 
